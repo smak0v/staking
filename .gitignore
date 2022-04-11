@@ -1,0 +1,11 @@
+node_modules
+coverage
+typechain
+cache
+artifacts
+
+.DS_Store
+.env
+coverage.json
+yarn.lock
+package-lock.json
